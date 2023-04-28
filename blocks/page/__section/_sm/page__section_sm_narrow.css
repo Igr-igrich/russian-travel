@@ -1,0 +1,7 @@
+@media screen and (max-width: 767px) {
+  .page__section_sm_narrow {
+    max-width: 288px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
